@@ -80,6 +80,5 @@ pip install -r requirements.txt
 This project is co-financed by the Governments of Czechia, Hungary, Poland, and Slovakia through Visegrad Grants from the International Visegrad Fund. The mission of the fund is to advance ideas for sustainable regional cooperation in Central Europe.
 
 <p align="center">
-  <img src="image/visegrad_logo.png" alt="Visegrad Fund Logo" width="250"/>
+  <img src="https://raw.githubusercontent.com/ringorsolya/visegradmedia/main/image/visegrad_logo.png" alt="Visegrad Fund Logo" width="250"/>
 </p>
-
